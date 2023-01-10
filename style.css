@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+#score{
+    font-size: 20px;
+    margin-left:100px;
+}
+#timer{
+    font-size: 20px;
+    margin-right: 400px;
+    float:right;
+}
+#given_sketch{
+    color: red;
+    font-size:20px
+}
+#your_sketch{
+    
+    font-size:20px
+}
+#confidence{
+   
+    font-size:20px
+}
+
